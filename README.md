@@ -14,16 +14,13 @@ AI for Good (Deep Learning Workshop Contents)
 ### 5. Future of AI ( Learn to get started towards building your own Neural Architecture Search )
 
 ### 1. Current and Future Trends in Deep Learning 
-1.     Session 1
 https://github.com/rajagopalmotivate1/AI-for-Good/blob/master/Session%201%20Bright%20Future%20for%20you%20.pdf
 
 ### 2. Which approach to learn to become a leader in Deep Learning? (Choose a friendly Deep Learning Framework)
-2.     Session 2
 https://github.com/rajagopalmotivate1/AI-for-Good/blob/master/Session%202%20Strategy%20to%20Lead%20Ahead%20Deep%20Learning.pdf
 
 
 ### 3. Develop your 1st Deep Learning project
-3.     Hands-on
 https://github.com/rajagopalmotivate1/AI-for-Good/blob/master/Session%204%20Jump%20start%201st%20Hands%20on%20Dense%20Neural%20net.pdf
 
 ### 4. Few concepts in Deep Learning
