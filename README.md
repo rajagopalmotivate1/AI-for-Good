@@ -38,3 +38,5 @@ https://github.com/rajagopalmotivate1/AI-for-Good/blob/master/Session%207%20Futu
 ### 6. State of art AI
 https://github.com/rajagopalmotivate1/AI-for-Good/blob/master/Session%208%20Current%20trends%20in%20Deep%20Learning.pdf
 
+# AI for Good workshop presentations (Hands-on)
+https://github.com/rajagopalmotivate1/AILab/
